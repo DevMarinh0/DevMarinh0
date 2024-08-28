@@ -3,7 +3,7 @@
 
 Entusiasta de programação, com foco em desenvolvimento back-end utilizando PHP, JavaScript e MySQL. Gosto de otimizar performance e explorar soluções inovadoras para problemas complexos.
 
-![asus-rog-pixel-city_800](https://github.com/user-attachments/assets/3d1fc434-e222-4bab-a392-64fde370048c)
+![pixelart_japan_gif_by_emojipatii_dgcbvb7](https://github.com/user-attachments/assets/c8e196db-ca37-4499-a16c-68ecf902f279)
 
 
 #### Contato
