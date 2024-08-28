@@ -11,7 +11,8 @@ Entusiasta de programação, com foco em desenvolvimento back-end utilizando PHP
 [![blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/bru_marinho__/)
 [![blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-marinho-souza-751640273/)
 #### Meu Status 👇
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCodeBruno&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevCodeBruno&show_icons=true&theme=holi)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCodeBruno&layout=compact)
 
 ## Ferramentas de Trabalho 
 ### Linguagens 
