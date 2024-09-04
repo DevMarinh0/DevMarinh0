@@ -1,7 +1,7 @@
 # Ola! Eu sou o Bruno Marinho ✋🏻
 ## Estudante de Analise e desenvolvimento de Sistemas
 
-Entusiasta de programação, com foco em desenvolvimento back-end utilizando PHP, JavaScript e MySQL. Gosto de otimizar performance e explorar soluções inovadoras para problemas complexos.
+Apaixonado por programação, me especializando em desenvolvimento back-end. Tenho um forte interesse em otimização de performance e na busca por soluções criativas para desafios complexos.
 
 
 #### Contato
@@ -25,7 +25,9 @@ Entusiasta de programação, com foco em desenvolvimento back-end utilizando PHP
 
 ### Estudando no Momento
 <div style="display: inline_block"><br/>
-    <img align="center" alt="html" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=blue"/>
+    <img align="center" alt=".net" src="https://img.shields.io/badge/.NET-000000?style=for-the-badge&logo=.net&logoColor=white"/>
+    <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 </div>
 
 ### Banco de Dados
