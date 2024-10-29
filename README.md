@@ -43,8 +43,8 @@
 
 <div align = "center">
     
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevCodeBruno&show_icons=true&layout=donut&theme=holi&count_private=true"/>
-  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=DevCodeBruno&show_icons=true&show_icons=true&theme=holi&count_private=true" />
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevMarinh0&show_icons=true&layout=donut&theme=holi&count_private=true"/>
+  <img height = "200em" src="https://github-readme-stats.vercel.app/api?username=DevMarinh0&show_icons=true&show_icons=true&theme=holi&count_private=true" />
 
 </div>
 <h2 align="center" bold=true>
