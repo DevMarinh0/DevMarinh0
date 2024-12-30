@@ -14,7 +14,7 @@
      Estou começando minha carreira como desenvolvedor, focado em Front-End e Back-End.<br><br>
 </h3> 
 
-- 🎓 Técnico em Informática
+- 🎓 Formado no curso Técnico em Informática
 - 👨‍💻 Tenho interesse em explorar novas oportunidades e desafios técnicos para expandir minha experiência e habilidades.
 - 🖥️ Desenvolvedor com foco nas tecnologias: JavaScript e PHP   
 
@@ -32,7 +32,7 @@
 
 <div align="center">
   
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/webdev.bruno/)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev_marinho/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-marinho-souza-751640273/)
 
 </div>
@@ -69,7 +69,6 @@
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="CSharp" width="40" height="40"/>&nbsp;
 </div>
 
 <h3 align="center" bold=true>
