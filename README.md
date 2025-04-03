@@ -55,9 +55,6 @@
 
 <br/><br/>
 
-<hr/>
-
-<br/>
-
-![pixelart_japan_gif_by_emojipatii_dgcbvb7](https://github.com/user-attachments/assets/c8e196db-ca37-4499-a16c-68ecf902f279)
-<br/>
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Fim☺️;+Espero+que+tenha+gostado😁;" />
+</h1>
