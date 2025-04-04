@@ -1,4 +1,3 @@
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Ola+👋;+Eu+Sou+Bruno+Marinho🧑🏻‍💻;" />
 </h1>
@@ -39,9 +38,10 @@
 <div align="center">
   <h2>🐍 Minhas Contribuições 🐍</h2>
   <br>
-    
-  
-  <br/><br/><br/>
+  <img src="https://raw.githubusercontent.com/DevMarinh0/DevMarinh0/output/snake.svg" alt="Snake animation" />
+
+<br/><br/>
+
 </div>
 
 <hr/>
