@@ -1,19 +1,20 @@
 name: Generate snake animation
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule:
+    - cron: "0 */12 * * *" # a cada 12 horas, exatamente na hora cheia
 
   workflow_dispatch:
 
   push:
     branches:
-      - master
+      - main # ou 'master', se for seu caso
+
+permissions:
+  contents: write
 
 jobs:
   generate:
-    permissions:
-      contents: write
     runs-on: ubuntu-latest
     timeout-minutes: 5
 
