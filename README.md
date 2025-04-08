@@ -21,6 +21,10 @@
   <a href="https://portifolio-bruno-marinho.vercel.app/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
+  <a href="https://www.instagram.com/dev_marinho/" target="_blank">
+     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /> 
+  </a>
+    
 </div>
 
  <hr/>
