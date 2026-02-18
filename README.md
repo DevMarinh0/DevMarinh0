@@ -4,16 +4,16 @@
   </a>
 </h1>
 
-<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas</h3>
+<h3 align="center"> Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
 <p align="center">
   Iniciando minha jornada como desenvolvedor, com foco em <strong>Front-End</strong> e <strong>Back-End</strong>.<br/>
-  Atualmente estudando <strong>Node.js</strong>, <strong>React</strong> e <strong>Python</strong>.
+  Atualmente estudando <strong>Node.js</strong>, <strong>React</strong>, <strong>PHP</strong> e <strong>Python</strong>.
 </p>
 
 ---
 
-### 🌐 Conecte-se comigo
+###  Conecte-se comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-marinho-souza-dev/" target="_blank">
@@ -29,18 +29,18 @@
 
 ---
 
-### 💻 Um pouco sobre mim...
+### Um pouco sobre mim...
 
 ```js
 const BrunoMarinhoSouza = {
   nome: "Bruno Marinho Souza",
-  idade: 19,
-  pronome: "Ele/Dele",
+  idade: 20,
   area: "Desenvolvimento Full Stack",
-  estudando: ["Node.js", "React", "Python", "SQL Server"],
+  estudando: ["Node.js", "React", "Python", "SQL Server", "PHP"],
   interesses: [
     "Desenvolvimento Web",
     "Desenvolvimento Fullstack",
+    "Desenvolvimento Mobile"
     "APIs REST",
     "UI/UX",
     "Programação",
@@ -55,10 +55,10 @@ const BrunoMarinhoSouza = {
     },
     backEnd: {
       linguagens: ["JavaScript", "Python", "PHP"],
-      frameworks: ["Node.js", "Express"],
+      frameworks: ["Node.js"],
       bancoDeDados: ["MySQL", "SQL Sever"]
     },
-    ferramentas: ["Git", "GitHub", "VSCode"]
+    ferramentas: ["Git", "GitHub", "VSCode", "Inmsonia"]
   },
   objetivos: [
     "Evoluir como desenvolvedor",
@@ -66,7 +66,7 @@ const BrunoMarinhoSouza = {
     "Construir soluções úteis e criativas"
   ],
   contato: {
-    portfolio: "https://portifolio-bruno-marinho.vercel.app/",
+    portfolio: "https://portifolio-dev-marinho.vercel.app/",
     linkedin: "https://www.linkedin.com/in/bruno-marinho-souza-dev/",
     instagram: "https://www.instagram.com/dev_marinho/"
   }
