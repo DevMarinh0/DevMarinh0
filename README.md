@@ -13,13 +13,13 @@
 
 ---
 
-###  Conecte-se comigo
+<h3 align="center"> Conecte-se comigo</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bruno-marinho-souza-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://portifolio-bruno-marinho.vercel.app/" target="_blank">
+  <a href="https://portifolio-dev-marinho.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/dev_marinho/" target="_blank">
@@ -29,49 +29,83 @@
 
 ---
 
-### Um pouco sobre mim...
+<h3 align="center"> Um pouco sobre mim</h3>
 
 ```js
 const BrunoMarinhoSouza = {
-  nome: "Bruno Marinho Souza",
-  idade: 20,
-  area: "Desenvolvimento Full Stack",
-  estudando: ["Node.js", "React", "Python", "SQL Server", "PHP"],
-  interesses: [
-    "Desenvolvimento Web",
-    "Desenvolvimento Fullstack",
-    "Desenvolvimento Mobile"
-    "APIs REST",
-    "UI/UX",
-    "Programação",
-    "Tecnologia",
-    "Boas praticas e Clean Code"
-  ],
-  tecnologias: {
+  perfil: {
+    nome: "Bruno Marinho Souza",
+    idade: 20,
+    cargo: "Desenvolvedor Full Stack em formação",
+    formacao: "Análise e Desenvolvimento de Sistemas"
+  },
+
+  focoAtual: {
+    stackPrincipal: ["Node.js", "React"],
+    stackComplementar: ["Python", "PHP"],
+    estudandoAtualmente: [
+      "Arquitetura de APIs REST",
+      "Organização de projetos Full Stack",
+      "Boas práticas com Git e controle de versão"
+    ]
+  },
+
+  interessesTecnicos: {
+    desenvolvimento: [
+      "Desenvolvimento Web",
+      "APIs REST",
+      "Integração Front-End e Back-End"
+    ],
+    qualidadeDeCodigo: [
+      "Clean Code",
+      "Boas práticas",
+      "Código legível e manutenível"
+    ]
+  },
+
+  stackTecnologica: {
     frontEnd: {
       linguagens: ["HTML", "CSS", "JavaScript"],
-      frameworks: ["React", "Bootstrap","Tailwind CSS"],
+      frameworks: ["React", "Tailwind CSS", "Bootstrap"],
       ferramentas: ["Vite", "Figma"]
     },
     backEnd: {
       linguagens: ["JavaScript", "Python", "PHP"],
       frameworks: ["Node.js"],
-      bancoDeDados: ["MySQL", "SQL Sever"]
-    },
-    ferramentas: ["Git", "GitHub", "VSCode", "Inmsonia"]
+      bancosDeDados: ["MySQL", "SQL Server"]
+    }
   },
-  objetivos: [
-    "Evoluir como desenvolvedor",
-    "Contribuir em projetos open source",
-    "Construir soluções úteis e criativas"
-  ],
-  contato: {
-    portfolio: "https://portifolio-dev-marinho.vercel.app/",
-    linkedin: "https://www.linkedin.com/in/bruno-marinho-souza-dev/",
-    instagram: "https://www.instagram.com/dev_marinho/"
+
+  fluxoDeTrabalho: {
+    ferramentas: ["Git", "GitHub", "VS Code", "Insomnia"],
+    praticas: [
+      "Commits frequentes e descritivos",
+      "Organização de pastas",
+      "Separação de responsabilidades"
+    ]
+  },
+
+  objetivos: {
+    curtoPrazo: [
+      "Consolidar fundamentos Full Stack",
+      "Desenvolver projetos com APIs próprias"
+    ],
+    longoPrazo: [
+      "Atuar profissionalmente como desenvolvedor",
+      "Contribuir com projetos open source"
+    ]
   }
 };
+
+
 ```
+---
+
+<h3 align="center"> Visão técnica do GitHub</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DevMarinh0&theme=tokyonight" />
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
